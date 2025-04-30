@@ -8,7 +8,7 @@ app.get("/", function(req,res){
 
 
 app.get("/carros", function(req,res){
-    res.send("<h1>Lista de carros!</h1>");
+    res.send("<h1>Lista de carros legais!</h1>");
 })
 
 
